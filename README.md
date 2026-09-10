@@ -23,12 +23,12 @@ I'm currently expanding into **Applied AI and LLM-powered applications**, with a
 
 ## 🛠️ Technologies
 
-**Languages:** TypeScript, JavaScript, Python, Java
-**Backend:** Node.js, REST APIs, Distributed Systems
-**Frontend:** React, Micro-frontends
-**Cloud & Data:** AWS, S3, SQS, Lambda, DynamoDB, DocumentDB
-**Infrastructure:** Kubernetes, Helm, Docker, AWS CDK, CI/CD
-**AI/ML:** LLM Applications, RAG, Information Retrieval, Pandas, NumPy
+* **Languages:** TypeScript, JavaScript, Python, Java
+* **Backend:** Node.js, REST APIs, Distributed Systems
+* **Frontend:** React, Micro-frontends
+* **Cloud & Data:** AWS, S3, SQS, Lambda, DynamoDB, DocumentDB
+* **Infrastructure:** Kubernetes, Helm, Docker, AWS CDK, CI/CD
+* **AI/ML:** LLM Applications, RAG, Information Retrieval, Pandas, NumPy
 
 ## 📫 Connect
 
