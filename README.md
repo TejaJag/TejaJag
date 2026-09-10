@@ -1,6 +1,6 @@
 # Hi, I'm Tejaswini 👋
 
-I'm a Software Engineer with nearly five years of experience building and operating distributed backend systems and customer-facing applications.
+I'm a Software Engineer with over eight years of experience building and operating distributed backend systems and customer-facing applications.
 
 My professional experience includes **Node.js, TypeScript, Java, React, AWS, Kubernetes, infrastructure as code, asynchronous messaging, database migrations, and production incident response**.
 
